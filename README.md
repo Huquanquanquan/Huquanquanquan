@@ -70,9 +70,3 @@
 <h2 align="center">Thank you for watching 💕</h2>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Huquanquanquan/count.svg?"  />
-</div>
-
-###
