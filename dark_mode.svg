@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="984px" height="504px" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', 'DejaVu Sans Mono', Consolas, monospace" font-size="15px" viewBox="0 0 984 504">
+<style>
+.key { fill: #ffa657; }
+.value { fill: #a5d6ff; }
+.dots { fill: #616e7f; }
+.body { fill: #f0f6fc; }
+.outline { fill: #d0d7de; }
+.eyes { fill: #0d1117; }
+.mouth { fill: #ff7b72; }
+.shell { fill: #f47067; }
+.belly { fill: #e3b341; }
+.plate { fill: #bb8009; }
+.grass { fill: #56d364; }
+.water { fill: #58a6ff; }
+text { white-space: pre; }
+</style>
+<rect width="984" height="504" rx="15" fill="#161b22"/>
+<text x="18" y="28" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">            <tspan class="body">████████████</tspan>                </text>
+<text x="18" y="48" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">         <tspan class="body">██████████████████</tspan>             </text>
+<text x="18" y="68" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">       <tspan class="body">██████</tspan><tspan class="eyes">██</tspan><tspan class="body">██████</tspan><tspan class="eyes">██</tspan><tspan class="body">██████</tspan>           </text>
+<text x="18" y="88" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">       <tspan class="body">██████</tspan><tspan class="eyes">██</tspan><tspan class="body">██████</tspan><tspan class="eyes">██</tspan><tspan class="body">██████</tspan>           </text>
+<text x="18" y="108" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">       <tspan class="body">██████</tspan><tspan class="eyes">██</tspan><tspan class="body">██████</tspan><tspan class="eyes">██</tspan><tspan class="body">██████</tspan>           </text>
+<text x="18" y="128" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">        <tspan class="body">████████████████████</tspan>            </text>
+<text x="18" y="148" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">         <tspan class="body">█████</tspan><tspan class="mouth">████████</tspan><tspan class="body">█████</tspan>             </text>
+<text x="18" y="168" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">          <tspan class="body">████</tspan><tspan class="mouth">████████</tspan><tspan class="body">████</tspan>              </text>
+<text x="18" y="188" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">     <tspan class="body">████████████████████████████</tspan>       </text>
+<text x="18" y="208" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">   <tspan class="body">██████</tspan>                    <tspan class="body">██████</tspan>     </text>
+<text x="18" y="228" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">  <tspan class="body">████</tspan>   <tspan class="belly">██████████████</tspan>    <tspan class="body">███</tspan><tspan class="shell">████</tspan>      </text>
+<text x="18" y="248" fill="#c9d1d9" textLength="362" lengthAdjust="spacing"> <tspan class="body">████</tspan>   <tspan class="belly">████████████████</tspan>   <tspan class="body">██</tspan><tspan class="shell">███████</tspan>    </text>
+<text x="18" y="268" fill="#c9d1d9" textLength="362" lengthAdjust="spacing"> <tspan class="body">████</tspan>   <tspan class="plate">████████████████</tspan>   <tspan class="body">██</tspan><tspan class="shell">███████</tspan>    </text>
+<text x="18" y="288" fill="#c9d1d9" textLength="362" lengthAdjust="spacing"> <tspan class="body">████</tspan>   <tspan class="belly">████████████████</tspan>   <tspan class="body">█</tspan><tspan class="shell">████████</tspan>    </text>
+<text x="18" y="308" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">  <tspan class="body">███</tspan>   <tspan class="plate">████████████████</tspan>   <tspan class="shell">█████████</tspan>    </text>
+<text x="18" y="328" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">   <tspan class="body">███</tspan>   <tspan class="belly">██████████████</tspan>   <tspan class="shell">████████</tspan>      </text>
+<text x="18" y="348" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">    <tspan class="body">██████████████████</tspan>   <tspan class="shell">█████</tspan>          </text>
+<text x="18" y="368" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">     <tspan class="body">█████</tspan>        <tspan class="body">█████</tspan> <tspan class="body">█████</tspan>           </text>
+<text x="18" y="388" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">     <tspan class="body">████</tspan>          <tspan class="body">████</tspan> <tspan class="body">█████</tspan>           </text>
+<text x="18" y="408" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">      <tspan class="body">███</tspan>          <tspan class="body">███</tspan>   <tspan class="body">███</tspan>            </text>
+<text x="18" y="428" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">                                        </text>
+<text x="18" y="448" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">                                        </text>
+<text x="18" y="468" fill="#c9d1d9" textLength="362" lengthAdjust="spacing">   <tspan class="grass">████████████████████████████████</tspan>     </text>
+<text x="18" y="488" fill="#c9d1d9" textLength="362" lengthAdjust="spacing"> <tspan class="water">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</tspan>   </text>
+<text x="406" y="28" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan>quanquan@github ----------------------------------------------</tspan></text>
+<text x="406" y="48" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">. </tspan><tspan class="key">OS</tspan><tspan>:</tspan><tspan class="dots"> ........................................... </tspan><tspan class="value">macOS, Linux</tspan></text>
+<text x="406" y="68" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan><tspan>:</tspan><tspan class="dots"> ......................... </tspan><tspan class="value" id="uptime">5 years, 9 months, 10 days</tspan></text>
+<text x="406" y="88" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">. </tspan><tspan class="key">Host</tspan><tspan>:</tspan><tspan class="dots"> ............................................ </tspan><tspan class="value">Tuxiaonan</tspan></text>
+<text x="406" y="108" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan><tspan>:</tspan><tspan class="dots"> .................................... </tspan><tspan class="value">SwiftUI, CS 408</tspan></text>
+<text x="406" y="128" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">. </tspan><tspan class="key">IDE</tspan><tspan>:</tspan><tspan class="dots"> ........................................ </tspan><tspan class="value">VS Code, Xcode</tspan></text>
+<text x="406" y="148" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">.                                                             </tspan></text>
+<text x="406" y="168" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">. </tspan><tspan class="key">Languages</tspan><tspan class="dots">.</tspan><tspan class="key">Programming</tspan><tspan>:</tspan><tspan class="dots"> .............. </tspan><tspan class="value">Python, Java, Swift, C</tspan></text>
+<text x="406" y="188" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">. </tspan><tspan class="key">Languages</tspan><tspan class="dots">.</tspan><tspan class="key">Mobile</tspan><tspan>:</tspan><tspan class="dots"> ................... </tspan><tspan class="value">Flutter, SwiftUI, Dart</tspan></text>
+<text x="406" y="208" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">. </tspan><tspan class="key">Languages</tspan><tspan class="dots">.</tspan><tspan class="key">Real</tspan><tspan>:</tspan><tspan class="dots"> ........................... </tspan><tspan class="value">Chinese, English</tspan></text>
+<text x="406" y="228" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">.                                                             </tspan></text>
+<text x="406" y="248" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">. </tspan><tspan class="key">Focus</tspan><tspan class="dots">.</tspan><tspan class="key">Study</tspan><tspan>:</tspan><tspan class="dots"> .................................. </tspan><tspan class="value">408, SwiftUI</tspan></text>
+<text x="406" y="268" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">. </tspan><tspan class="key">Focus</tspan><tspan class="dots">.</tspan><tspan class="key">Build</tspan><tspan>:</tspan><tspan class="dots"> ......................... </tspan><tspan class="value">Python, Java, Flutter</tspan></text>
+<text x="406" y="288" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">.                                                             </tspan></text>
+<text x="406" y="308" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan>- Contact ----------------------------------------------------</tspan></text>
+<text x="406" y="328" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">. </tspan><tspan class="key">Email</tspan><tspan>:</tspan><tspan class="dots"> ........................... </tspan><tspan class="value">huquanquan12345@gmail.com</tspan></text>
+<text x="406" y="348" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">. </tspan><tspan class="key">GitHub</tspan><tspan>:</tspan><tspan class="dots"> ..................................... </tspan><tspan class="value">Huquanquanquan</tspan></text>
+<text x="406" y="368" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">. </tspan><tspan class="key">Company</tspan><tspan>:</tspan><tspan class="dots"> ......................................... </tspan><tspan class="value">Tuxiaonan</tspan></text>
+<text x="406" y="388" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">. </tspan><tspan class="key">Location</tspan><tspan>:</tspan><tspan class="dots"> ............................................ </tspan><tspan class="value">China</tspan></text>
+<text x="406" y="408" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">.                                                             </tspan></text>
+<text x="406" y="428" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan>- GitHub Stats -----------------------------------------------</tspan></text>
+<text x="406" y="448" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan><tspan>:</tspan><tspan class="dots"> ................... </tspan><tspan class="value" id="repos">12</tspan><tspan class="dots"> | </tspan><tspan class="key">Stars</tspan><tspan>:</tspan><tspan class="dots"> ................... </tspan><tspan class="value" id="stars">5</tspan></text>
+<text x="406" y="468" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">. </tspan><tspan class="key">Contributions</tspan><tspan>:</tspan><tspan class="dots"> ............ </tspan><tspan class="value" id="contrib">418</tspan><tspan class="dots"> | </tspan><tspan class="key">Followers</tspan><tspan>:</tspan><tspan class="dots"> ............. </tspan><tspan class="value" id="followers">0</tspan></text>
+<text x="406" y="488" fill="#c9d1d9" textLength="560" lengthAdjust="spacing"><tspan class="dots">. </tspan><tspan class="key">Top</tspan><tspan>:</tspan><tspan class="dots"> ................................ </tspan><tspan class="value" id="top">Python, Java, C, Swift</tspan></text>
+</svg>
